@@ -1,0 +1,27 @@
+{
+  "name": "fs-copy",
+  "main": "lib/app.js",
+  "repository": {
+    "url": "https://github.com/tobihrbr/fs-copy.git",
+    "type": "git"
+  },
+  "version": "1.0.0",
+  "description": "Copy something",
+  "keywords": [
+    "copy",
+    "dir",
+    "directorxy",
+    "file"
+  ],
+  "license": "MIT",
+  "author": "tobihrbr",
+  "scripts": {
+    "start": "node lib/app.js"
+  },
+  "dependencies": {
+    "dir-check": "^1.0.0",
+    "dir-copy": "^1.0.0",
+    "file-check": "^1.0.0",
+    "file-copy": "^1.0.0"
+  }
+}
