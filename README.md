@@ -1,5 +1,5 @@
 # Fs copy
-> Copy something
+> Copy something(files and directories)
 
 ## Installation
 ```bash
